@@ -1,0 +1,30 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #202020;
+	font-family: "Helvetica Neue";
+}
+
+#container {
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.now {
+	font-size: 86px;
+	font-weight: lighter;
+	margin: 0px auto;
+}
+
+.v-mid {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: -moz-box;
+	display: flex;
+
+	-webkit-align-items: center;
+	   -moz-align-items: center;
+		-ms-align-items: center;
+			align-items: center;
+}
