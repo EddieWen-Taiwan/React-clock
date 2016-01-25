@@ -12,9 +12,10 @@ body {
 }
 
 .now {
-	font-size: 86px;
-	font-weight: lighter;
+	font-size: 120px;
+	font-weight: bold;
 	margin: 0px auto;
+	letter-spacing: 5px;
 }
 
 .v-mid {
