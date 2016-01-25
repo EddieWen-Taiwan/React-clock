@@ -16,6 +16,7 @@ body {
 	font-weight: bold;
 	margin: 0px auto;
 	letter-spacing: 5px;
+	text-shadow: 0px 1px 0px white, 0px -1px 0px white, 1px 0px 0px white, -1px 0px 0px white;
 }
 
 .v-mid {
